@@ -4,10 +4,16 @@
 
 ## Apresentação
 
-O teste de unidade é conhecido por testar a menor parte de um sistema em desenvolvimento. Assim o framework JUnit é uma ferramenta usado nos testes de softwares. 
-Teste de Unidade é uma ferramenta utilizada no processo de desenvolmento de software para verificação e ratificação para determinada função, classe e metodo criadas anteriormente. 
-Esse  exemplo de [Test de Unidade ](https://github.com/ancgci/Junit-Teste-Unidade) demonstra na prática o uso do framework com cunho educacional. Assim para a realização do teste de unidade utilizamos o modelo de programa disponibilizado publicamente por [Claudio Neves](https://github.com/claudioneves1981/junit-gradle-empty) com algumas modificações e adições no código do programa feito em Java. Foram reaproveitado também alguns testes descritos pelo mesmo.
-O objetivo aqui não é criar um programa em Java mas testar suas Classes com o framework Junit.
+
+Melhorei a redação para torná-la mais clara e coerente:
+
+O teste de unidade é uma prática conhecida por testar a menor parte de um sistema em desenvolvimento. O framework JUnit é uma ferramenta amplamente utilizada para realizar testes de software.
+
+O teste de unidade é uma etapa importante no processo de desenvolvimento de software, pois permite verificar e validar funções, classes e métodos criados anteriormente. Um exemplo prático do uso do JUnit pode ser encontrado neste repositório de [Teste de Unidade](https://github.com/ancgci/Junit-Teste-Unidade), que tem um enfoque educacional.
+
+Nesse exemplo, utilizamos um modelo de programa disponibilizado publicamente por [Claudio Neves](https://github.com/claudioneves1981/junit-gradle-empty), fazendo algumas modificações e adições no código Java. Também reutilizamos alguns testes descritos pelo mesmo autor.
+
+O objetivo principal não é criar um programa em Java, mas sim testar as classes utilizando o framework JUnit.
 
 ## IDE utilizada
 
