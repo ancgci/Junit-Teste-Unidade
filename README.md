@@ -5,7 +5,6 @@
 ## Apresentação
 
 
-Melhorei a redação para torná-la mais clara e coerente:
 
 O teste de unidade é uma prática conhecida por testar a menor parte de um sistema em desenvolvimento. O framework JUnit é uma ferramenta amplamente utilizada para realizar testes de software.
 
